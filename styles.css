@@ -1,0 +1,48 @@
+* {
+    background-color: #000000;
+    color: #fff;
+    font-family: "Courier New", monospace;
+}
+
+body {
+    max-width: 540px;
+    margin: auto;
+    padding: 12px;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color: #2195b5;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    background-color: #fff;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.footer {
+    text-align: right;
+}
